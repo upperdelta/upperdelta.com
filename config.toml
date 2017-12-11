@@ -67,7 +67,7 @@ paginate = 10
     defaultDescription = "Intelligent Autonomous Systems"
 
     # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = "AIzaSyDoTd0Oqc8ORLT32M8OaQBafE6pMKe_Zmc"
+    googleMapsApiKey = "AIzaSyBdCO23WtWCijA4Gf6y_fdCt-6IEYfR1lM"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
