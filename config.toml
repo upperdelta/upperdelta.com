@@ -101,6 +101,7 @@ paginate = 10
         <strong>Portugal</strong>
       </p>
       """
+    phone = "+351 911 195 386"
     latitude = "41.1774992"
     longitude = "-8.605142"
 
