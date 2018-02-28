@@ -87,7 +87,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "hello@upperdelta.com"
 
-    about_us = "<p>Upper Delta provides consulting services on data science and machine learning. Our team is seasoned, autonomous and hands-on. We have well rounded professionals with diverse skills that help you avoid the pitfals of bringing a model into production, in the cloud or on-premises. Bring us your own challenge!</p>"
+    about_us = "<p>Upper Delta provides consulting services on data science and machine learning. Our team is seasoned, autonomous and hands-on. We have well rounded professionals with diverse skills that help you avoid the pitfalls of bringing a model into production, in the cloud or on-premises. Bring us your own challenge!</p>"
     copyright = "&reg; Upper Delta - 2017 all rights reserved."
 
     # Format dates with Go's time formatting
