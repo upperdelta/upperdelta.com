@@ -1,4 +1,4 @@
-.PHONY=server deploy
+.PHONY=server clean publish
 
 server:
 	hugo server
