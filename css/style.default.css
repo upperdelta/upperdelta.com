@@ -1308,6 +1308,7 @@ fieldset[disabled] .btn-template-primary.active {
   width: 80%;
   text-align: right;
 }
+
 .testimonials .item .testimonial .name-picture h5 {
   font-size: 14px;
   text-transform: uppercase;
@@ -1321,8 +1322,8 @@ fieldset[disabled] .btn-template-primary.active {
 .testimonials .item .testimonial .name-picture img {
   float: right;
   width: 60px;
+  margin: 10px 0px 10px 10px;
   border-radius: 30px;
-  margin-left: 10px;
 }
 .team-member {
   text-align: center;
