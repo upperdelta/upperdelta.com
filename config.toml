@@ -143,10 +143,9 @@ paginate = 10
     link_text = ""
 
 [params.clients]
-    enable = false
+    enable = true
     title = "Our Clients"
     subtitle = ""
-    # all items are defined in data/clients/
 
 [params.recent_posts]
     enable = false
