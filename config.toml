@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 disqusShortname = "upperdelta"
 
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-129350298-1"
 
 # Define the number of posts per page
 paginate = 10
