@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://upperdelta.com/use-cases/strategic_dialer/</loc>
+  </url>
+  
+  <url>
     <loc>https://upperdelta.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -18,6 +22,11 @@
   
   <url>
     <loc>https://upperdelta.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://upperdelta.com/use-cases/</loc>
     <priority>0</priority>
   </url>
   
