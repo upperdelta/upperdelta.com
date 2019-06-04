@@ -389,7 +389,7 @@ ul.list-style-none {
 }
 @media (max-width: 767px) {
   .navbar .yamm-content h3 {
-    font-size: 14px;
+    font-size: 15px;
   }
 }
 .navbar .yamm-content h5 {
@@ -524,11 +524,11 @@ body.boxed .navbar-affixed-top.affix {
   border-radius: 0;
 }
 .input-group .btn {
-  font-size: 14px;
+  font-size: 15px;
 }
 .btn-lg {
   padding: 10px 16px;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.33;
   border-radius: 0;
 }
@@ -775,7 +775,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (max-width: 991px) {
   #intro .item .btn {
-    font-size: 14px;
+    font-size: 15px;
   }
 }
 @media (max-width: 991px) {
@@ -1217,7 +1217,7 @@ fieldset[disabled] .btn-template-primary.active {
 @media (max-width: 991px) {
   .home-carousel ul,
   .home-carousel p {
-    font-size: 14px;
+    font-size: 15px;
   }
 }
 .home-carousel ul li {
@@ -1310,7 +1310,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 
 .testimonials .item .testimonial .name-picture h5 {
-  font-size: 14px;
+  font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
@@ -1820,7 +1820,7 @@ fieldset[disabled] .btn-template-primary.active {
   text-transform: uppercase;
   margin-bottom: 0;
   text-align: left;
-  font-size: 14px;
+  font-size: 15px;
   letter-spacing: 0.08em;
 }
 .portfolio-project .project-more p {
@@ -2260,7 +2260,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 10px;
 }
 .product .text h3 {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 700;
   height: 39.6px;
   text-transform: uppercase;
@@ -2519,7 +2519,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #eeeeee;
 }
 #footer h4 {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -3152,7 +3152,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.42857143;
   color: #555555;
 }
@@ -3203,7 +3203,7 @@ hr {
 /* dropdowns */
 .dropdown-menu {
   z-index: 1000;
-  font-size: 14px;
+  font-size: 15px;
   background-color: #ffffff;
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
@@ -3417,7 +3417,7 @@ abbr[data-original-title] {
 blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
-  font-size: 14px;
+  font-size: 15px;
   border-left: 5px solid #d45500;
 }
 blockquote footer,
