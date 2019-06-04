@@ -1,0 +1,3 @@
+name: "Failure Detection"
+image: "img/usecases/02-failure-detection.png"
+description: "Pinpoint hardware and software problems in your infrastructure and fix issues before your users notice."
