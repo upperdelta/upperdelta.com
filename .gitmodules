@@ -1,0 +1,3 @@
+[submodule "themes/upperdelta-theme"]
+	path = themes/upperdelta-theme
+	url = https://github.com/upperdelta/hugo-universal-theme.git
