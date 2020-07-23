@@ -66,12 +66,6 @@ paginate = 10
     defaultKeywords = ["machine learning", "data science", "services"]
     defaultDescription = "Data Science Services"
 
-    # Google Maps API key (if not set will default to not passing a key.)
-    # enableGoogleMaps = true
-    # googleMapsApiKey = "AIzaSyA0HWXq8WvFkhjS_oh_PtiB4mJEfbbnr2o"
-    # latitude = "41.1774992"
-    # longitude = "-8.605142"
-
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
 
@@ -107,6 +101,12 @@ paginate = 10
         </p>
     """
     phone = "+351 911 195 836"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    # enableGoogleMaps = true
+    # googleMapsApiKey = "AIzaSyA0HWXq8WvFkhjS_oh_PtiB4mJEfbbnr2o"
+    # latitude = "41.1774992"
+    # longitude = "-8.605142"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
