@@ -7,4 +7,6 @@ id = "contact"
 
 Interested in knowing more about our services?
 
-Please feel free to contact us, our team is working for you 24/7.
+Please feel free to establish contact, either write or call us.
+
+Let's talk!
