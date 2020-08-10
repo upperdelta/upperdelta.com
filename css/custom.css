@@ -6,7 +6,7 @@
 }
 
 .box-simple {
-  min-height: 230px;
+  min-height: 320px;
 }
 
 .box-simple .icon-image {
@@ -31,4 +31,12 @@
 .use-cases .item {
   background: #fff;
   padding: 40px;
+}
+
+.justified-text {
+  text-align: justify;
+}
+
+.line-height {
+  line-height:2.5rem;
 }
