@@ -154,7 +154,7 @@ paginate = 10
     link_text = ""
 
 [params.clients]
-    enable = true
+    enable = false
     title = "Our Clients"
     subtitle = ""
 
